@@ -12,10 +12,11 @@
 <a href=""><i>See my porfotolio</i></a>
 
 <h2>My skills ⚙️</h2>
-<span><b>_ Web Devloper _</b></span>
+
+> <span><b>Web Devloper <code></></code></b></span>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,mongodb)](https://skillicons.dev)
 
-<span><b>_ Game Devloper _</b></span>
+> <span><b> Game Devloper <code>🎮</code></b></span>
 
 [![My Skills](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
